@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ReactJs developer at [prydan](https://www.prydansoftware.com/)
 
-- 🌱 I’m currently learning **Techinical documentation, and everything about JavaScript**
+- 🌱 I’m currently learning **Technical documentation, and everything about JavaScript**
 
 - 👯 I’m looking to collaborate on **your idea and your projects.**
 
