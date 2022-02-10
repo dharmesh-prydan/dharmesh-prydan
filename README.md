@@ -9,3 +9,16 @@
     - How to reach me: dharmesh@prydan.com.
     
      telescope I’m currently working prydansoftware.com
+     
+     
+Hi I'm Dharmesh
+A passionate ReactJs developer from India
+
+telescope I’m currently working as python developer at Prydan Consultancy
+speech_balloon Ask me about Python ,Django ,Html , CSS, and JavaScript.
+mailbox How to reach me bhavin@prydan.com
+Connect with me:
+bhavin asodariya
+
+Languages and Tools:
+bootstrap css3 django flask html5 mysql python
