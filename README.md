@@ -1,4 +1,4 @@
-# I'm a Frontend JavaScript developer and UI/UX - ReactJs developer
+## I'm a Frontend JavaScript developer and UI/UX - ReactJs developer
 
     •  I’m currently working prydansoftware.com
     •  I'm currently working as ReactJs Developer 
